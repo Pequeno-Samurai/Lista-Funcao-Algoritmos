@@ -1,4 +1,4 @@
-//2.Crie uma função que receba 2 números inteiros e retorne o maior valor.
+//2.Crie uma funÃ§Ã£o que receba 2 nÃºmeros inteiros e retorne o maior valor.
 
 #include <stdio.h>
 
