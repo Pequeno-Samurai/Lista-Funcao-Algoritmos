@@ -1,4 +1,4 @@
-//1.Crie uma funÁ„o que receba um valor e informe se ele È positivo ou n„o.
+//1.Crie uma fun√ß√£o que receba um valor e informe se ele √© positivo ou n√£o.
 
 #include <stdio.h>
 
