@@ -4,8 +4,8 @@
 
 int maior(int x, int y);
 
-int main(){
-	
+int main()
+{
 	int valor1, valor2, resultado;
 	
 	printf("Digite um valor: ");
@@ -18,11 +18,17 @@ int main(){
 	
  	printf("\nValor maior: %d\n", resultado);
  	
- return 0; }
+ return 0; 
+}
  
-int maior(int x, int y){
-	
- 	if (x > y) {
- 		return x; }
-	else{
- 		return y; } }
+int maior(int x, int y)
+{
+ 	if (x > y) 
+	{
+ 		return x; 
+	}
+	else
+	{
+ 		return y; 
+	} 
+}
