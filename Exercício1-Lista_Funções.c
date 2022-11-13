@@ -4,8 +4,8 @@
 
 int pos(int x);
 
-int main(){
-	
+int main()
+{
 	int x, resultado;
 	
 	printf("Digite um valor: ");
@@ -13,17 +13,27 @@ int main(){
 	
 	resultado = pos(x);
 	
-	if (resultado>0){
- 		printf("\nPositivo "); }
+	if (resultado>0)
+	{
+ 		printf("\nPositivo "); 
+	}
  		
- 		else {
- 			printf("\nNegativo"); }
+ 		else 
+		{
+ 			printf("\nNegativo"); 
+		}
  	
- return 0; }
+ return 0; 
+}
  
-int pos(int x){
-	
- 	if (x > 0) {
- 		return 1; }
-	else{
- 		return 0; } }
+int pos(int x)
+{
+ 	if (x > 0) 
+	{
+ 		return 1; 
+	}
+	else
+	{
+ 		return 0; 
+	} 
+}
