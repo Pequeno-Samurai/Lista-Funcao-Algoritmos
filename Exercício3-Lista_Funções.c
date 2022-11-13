@@ -4,7 +4,8 @@
 
 int menor(int x, int y);
 
-int main(){
+int main()
+{
 	
 	int valor1, valor2, resultado;
 	
@@ -18,11 +19,18 @@ int main(){
 	
  	printf("\nValor menor: %d\n", resultado);
  	
- return 0; }
+ return 0; 
+}
  
-int menor(int x, int y){
+int menor(int x, int y)
+{
 	
- 	if (x < y) {
- 		return x; }
-	else{
- 		return y; } }
+ 	if (x < y) 
+	{
+ 		return x; 
+	}
+	else
+	{
+ 		return y; 
+	} 
+}
